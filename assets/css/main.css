@@ -447,6 +447,7 @@ a:before, a:after {
 	text-align: center;
 }
 #footerwrap span.copyright {
+	font-family: 'Kalam', cursive;
 	line-height: 40px;
 	color: #fff;
 	font-weight: 400;
