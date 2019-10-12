@@ -303,7 +303,8 @@ a:before, a:after {
     padding: 60px 0;
 }
 #about {
-    padding: 60px 0;
+    padding-top: 60px;
+
 }
 #about img {
     margin-top: 20px;
